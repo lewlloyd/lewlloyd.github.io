@@ -2,6 +2,7 @@ body {
     background-color: #505050;
     color: snow;
     font-family: Helvetica Neue;
+    font-weight: 400;
     margin-left: 100px;
     margin-right: 150px;
 }
@@ -11,8 +12,9 @@ a {
 }
 p {
     line-height: 1.4;
-    font-size: 14pt;
+    font-size: 13pt;
 }
 h1 {
     font-size: 10pt;
+    font-weight: 200;
 }
